@@ -1,4 +1,5 @@
 
+![Flutter News App](https://github.com/CoderJava/Flutter-News-App/blob/master/screenshots/social%20media%20preview.png)
 
 # Flutter News App
 News App developed with Flutter and API from [News API](https://newsapi.org)
